@@ -105,9 +105,6 @@ const Term = () => {
     </div>
 
 
-
-
-
 <div className="rg">
 <h4 className='rr'>GUEST RALATIONS </h4>
 <h3 className='ee'>[Guest Relations Email ]</h3>
