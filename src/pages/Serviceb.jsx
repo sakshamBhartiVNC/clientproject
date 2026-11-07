@@ -65,13 +65,18 @@ const Serviceb = () => {
           <h1 className='bir'> Birthday parties</h1>
           <h5 className='bir2'> Another year, Celebrated in our distinctive style </h5>
         </div>
-        <img src={bir} className='imgBox1' />
+        <div className="imgoo">
+
+        <img src={bir}  className='imgvox1' />
+        </div>
 
       </div>
 
       <div className="box6">
-        
-        <img src={ani} className='imgBox' />
+        <div className="imgBo">
+
+        <img src={ani} className='imgbb' />
+        </div>
 
         <div className="ani0">
 
@@ -89,12 +94,18 @@ const Serviceb = () => {
         <h5 className='cor2' >Considered experiences that birng people together.</h5>
          
           </div>
-        <img src={cor} className='imgBox1' />
+          <div className="imgoo">
+
+        <img src={cor} className='imgvox1' />
+          </div>
       </div>
 
       <div className="box8">
         <h6>05</h6>
-        <img src={pri} className='imgBox' />
+        <div className="imgBo">
+
+        <img src={pri} className='imgbb' />
+        </div>
 
         <div className="pri0">
 
@@ -114,7 +125,10 @@ const Serviceb = () => {
 
         <h5 className='baby2'>Thoughful settings for lifes sweetest milestores.</h5>
         </div>
-        <img className='imgBox1 ' src={baby} />
+        <div className="imgoo">
+
+        <img className='imgvox1 ' src={baby} />
+        </div>
 
       </div>
 

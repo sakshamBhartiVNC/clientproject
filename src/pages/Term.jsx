@@ -156,6 +156,64 @@ const Term = () => {
 
 <div className="trm6">
 
+<div className="f1">
+  <div className="even">
+
+<img src={trimg} className='titi'/>
+
+<h2 className='eventora'>EVENTORA</h2>
+  </div>
+  <br></br>
+<h4 className='ff'>Fine dining in the royal tradition. Reservations,
+  <br></br>
+  <br></br>
+  Private dining and celevrations, served with care. </h4>
+
+  
+
+</div>
+
+
+
+
+
+
+
+
+<div className="f2">
+
+
+<h2 className='eventora'>LEGAL</h2>
+
+<br></br>
+<h4 className='ff1'>FFSAI Liconco No.[License Number]
+  
+<br></br>
+  <br></br>
+ 
+   GSTIN[GST Number]
+   <br></br>
+   <br></br>
+  
+  [Legal Entity Name ]
+</h4>
+
+
+
+
+
+</div>
+
+
+<div className="f3">
+
+<h2 className='ra'>POLICIES</h2>
+<h2 className='ra'>Privacy policy</h2>
+<h2 className='ra'>Cancelllation Policy</h2>
+<h2 className='ra'>Allergen information </h2>
+
+</div>
+
 
 
 

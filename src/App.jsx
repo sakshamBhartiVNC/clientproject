@@ -7,12 +7,18 @@ import Serviceb from './pages/Serviceb'
 import Gallry from './pages/Gallry'
 import About from './pages/About'
 import Term from './pages/Term'
+import { FallingLeaves } from 'falling-leaves/react'
 
 const App = () => {
   return (
 
     <BrowserRouter>
     <div>
+
+      <FallingLeaves
+      fullScreen
+      shape ="maple" 
+      />
 
 <Nav/>
 
